@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.next/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.env.local
+
+# Large Datasets
+examrank/datasets/kcet cuttoff 15 years/KCET_Complete_2010_2024_AllData.csv
